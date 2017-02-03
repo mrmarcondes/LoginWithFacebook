@@ -28,7 +28,7 @@
 	<key>FacebookAppID</key>
 	<string>999999999999999</string>
 	<key>FacebookDisplayName</key>
-	<string>Zipster</string>
+	<string>FacebookLogin</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
