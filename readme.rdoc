@@ -1,3 +1,5 @@
 == README
 
 Simple simple simple example to login and retrieve info from facebook.
+
+Change FacebookAppID and CFBundleURLSchemes keys on info.plist with your own Facebook credentials.
