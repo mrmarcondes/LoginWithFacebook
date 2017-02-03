@@ -1,0 +1,3 @@
+== README
+
+Simple simple simple example to login and retrieve info from facebook.
